@@ -1,3 +1,12 @@
+/**
+ * @package		Mod_Covid19
+ *
+ * @author		Carlos Cámara <carlos@hepta.es>
+ * @copyright	2020 Hepta Technologies SL
+ * @license		GNU GPL v2
+ * @link		https://extensions.hepta.es
+ */
+
 .mod_covid19 {
 	position: relative;
 	text-align: center;
