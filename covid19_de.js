@@ -1,10 +1,10 @@
 /**
- * @package		Mod_Covid19
+ * @package		Covid19
  *
- * @author		Carlos Cámara <carlos@hepta.es>
- * @copyright	2020 Hepta Technologies SL
- * @license		GNU GPL v2
- * @link		https://extensions.hepta.es
+ * @author		DevBlinders
+ * @copyright	2020 DevBlinders
+ * @license		0BSD
+ * @link		https://github.com/DevBlinders/covid-19
  */
 
 document.addEventListener("DOMContentLoaded", function (event) {
