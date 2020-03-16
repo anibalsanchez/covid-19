@@ -9,10 +9,10 @@ Public awareness campaign on the coronavirus (Covid-19). If you want to join thi
 You only have to add this code on yourwebsite:
 
 ```html
-<script async type="text/javascript" src="https://www.devblinders.com/includes/covid19_en.min.js"></script>
+<script async type="text/javascript" src="https://www.devblinders.com/includes/covid19_en.js"></script>
 ```
 
-If it doesn't work when you upload the js externally, try downloading https://github.com/DevBlinders/covid-19/blob/master/covid19_en.min.js" directly from GitHub and uploading it internally to your site.
+If it doesn't work when you upload the js externally, try downloading https://github.com/DevBlinders/covid-19/blob/master/covid19_en.js" directly from GitHub and uploading it internally to your site.
 
 ## How to add it in WordPress by hand
 
@@ -37,7 +37,7 @@ Create a new tag and name it something like covid-19 Awareness.
 Use a custom HTML tag and add this to content:
 
 ```html
-<script async type="text/javascript" src="https://www.devblinders.com/includes/covid19_en.min.js"></script>
+<script async type="text/javascript" src="https://www.devblinders.com/includes/covid19_en.js"></script>
 ```
 Then, from "Activator", select "All Pages" by default. Just send the changes and check in Incognito Mode.
 
@@ -53,10 +53,10 @@ Si quieres sumarte a esta campaña en tu web puede insertar este javascript en e
 Solamente tienes que añadir este código en tu web:
 
 ```html
-<script async type="text/javascript" src="https://www.devblinders.com/includes/covid19.min.js"></script>
+<script async type="text/javascript" src="https://www.devblinders.com/includes/covid19.js"></script>
 ```
 
-Si no te funciona al cargar el js de forma externa, lo mejor es descargar el js "covid19.min.js" directamente desde el github y cargarlo internamente en tu web.
+Si no te funciona al cargar el js de forma externa, lo mejor es descargar el js "covid19.js" directamente desde el github y cargarlo internamente en tu web.
 
 ## Para insertar en WordPress a mano
 
@@ -94,7 +94,7 @@ Simplemente creáis una nueva etiqueta y la llamáis algo tipo: Concienciación 
 La etiqueta tiene que ser de tipo HTML Personalizado y en el contenido, lo único que tenéis que pegar es esto:
 
 ```html
-<script async type="text/javascript" src="https://www.devblinders.com/includes/covid19.min.js"></script>
+<script async type="text/javascript" src="https://www.devblinders.com/includes/covid19.js"></script>
 ```
 
 Después, en activador tenéis que seleccionar el que viene por defecto de All Pages (Todas las páginas). Y por último ya sólo queda que envíes los cambios y revises que se ve en incógnito.
